@@ -1,6 +1,20 @@
 ## Hi there 👋
+<div align="center">
+  <h1>I'm Koreyoshi</h1>
+</div>
+
+I'm a student at HUST, majoring in Software Engineering. I have a keen interest in AI, especially in the fields of Natural Language Processing (NLP) and Large Language Models (LLMs). I enjoy exploring new technologies and applying them to solve real-world problems.
+    
+
 ![](https://pixel-profile.vercel.app/api/github-stats?username=Koreyoshi01&screen_effect=true&theme=monica)
-![koreyoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koreyoshi01&show_icons=true&theme=tokyonight)
+
+
+- 🌱 I’m currently learning NLP,MLLM,Happy-LLM
+- 👯 I’m looking to collaborate on HKUST(GuangZhou)
+- 📫 How to reach me:      
+          QQ:2578317022  
+          WeChat:18479032010  
+          Mail:koreyoshi0011@gmail.com  
 <!--
 **Koreyoshi01/Koreyoshi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
