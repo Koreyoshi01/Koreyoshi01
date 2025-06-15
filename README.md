@@ -1,6 +1,6 @@
-## Hi there 👋
+
 <div align="center">
-  <h1>I'm Koreyoshi</h1>
+  <h1>Hi👋,I'm Koreyoshi</h1>
 </div>
 
 I'm a student at HUST, majoring in Software Engineering. I have a keen interest in AI, especially in the fields of Natural Language Processing (NLP) and Large Language Models (LLMs). I enjoy exploring new technologies and applying them to solve real-world problems.
