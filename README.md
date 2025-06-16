@@ -16,7 +16,6 @@ I'm a student at HUST, majoring in Software Engineering. I have a keen interest 
           WeChat:18479032010  
           Mail:koreyoshi0011@gmail.com
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Koreyoshi01L/Koreyoshi01/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Koreyoshi01/Koreyoshi01/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Koreyoshi01/Koreyoshi01/output/github-contribution-grid-snake.svg">
 </picture>
