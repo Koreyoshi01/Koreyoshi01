@@ -4,7 +4,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2CI'm+Koreyoshi)](https://git.io/typing-svg)
-## 💬 About me
+## 😄 About Me
 I'm a student at HUST, majoring in Software Engineering. I have a keen interest in AI, especially in the fields of Natural Language Processing (NLP) and Large Language Models (LLMs). I enjoy exploring new technologies and applying them to solve real-world problems.
     
 
@@ -13,7 +13,7 @@ I'm a student at HUST, majoring in Software Engineering. I have a keen interest 
 
 ## 🌱Learning
 - I’m currently learning NLP,MLLM,Happy-LLM
-## 👯 Working
+## 🤔 Recent Plan
 - I'm looking for a research internship at HKUST(GuangZhou) in Summer 2025.
 ## 📫 Contact      
 - QQ:2578317022  
