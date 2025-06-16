@@ -4,19 +4,21 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2CI'm+Koreyoshi)](https://git.io/typing-svg)
-
+## 💬 About me
 I'm a student at HUST, majoring in Software Engineering. I have a keen interest in AI, especially in the fields of Natural Language Processing (NLP) and Large Language Models (LLMs). I enjoy exploring new technologies and applying them to solve real-world problems.
     
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=Koreyoshi01&screen_effect=true&theme=monica)
 
 
-- 🌱 I’m currently learning NLP,MLLM,Happy-LLM
-- 👯 I’m looking to collaborate on HKUST(GuangZhou)
-- 📫 How to reach me:      
-          QQ:2578317022  
-          WeChat:18479032010  
-          Mail:koreyoshi0011@gmail.com
+## 🌱Learning
+- I’m currently learning NLP,MLLM,Happy-LLM
+## 👯 Working
+- I’m looking to collaborate on HKUST(GuangZhou)
+## 📫 Contact      
+- QQ:2578317022  
+- WeChat:18479032010  
+- Mail:koreyoshi0011@gmail.com
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Koreyoshi01/Koreyoshi01/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Koreyoshi01/Koreyoshi01/output/github-contribution-grid-snake.svg">
