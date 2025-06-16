@@ -3,6 +3,8 @@
   <h1>Hi👋,I'm Koreyoshi</h1>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2CI'm+Koreyoshi)](https://git.io/typing-svg)
+
 I'm a student at HUST, majoring in Software Engineering. I have a keen interest in AI, especially in the fields of Natural Language Processing (NLP) and Large Language Models (LLMs). I enjoy exploring new technologies and applying them to solve real-world problems.
     
 
