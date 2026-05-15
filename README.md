@@ -12,9 +12,8 @@ I'm a student at HUST, majoring in Software Engineering. I have a keen interest 
 
 
 ## 🌱Learning
-- I’m currently learning NLP,MLLM,Happy-LLM
-## 🤔 Recent Plan
-- I'm looking for a research internship at HKUST(GuangZhou) in Summer 2025.
+- I’m currently learning NLP,MLLM,RL,Generative Model
+
 ## 📫 Contact      
 - QQ:2578317022  
 - WeChat:18479032010  
